@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SqlUtils-jvm-1.5-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="SqlUtils-jvm-1.5-SNAPSHOT.jar">
+      <element id="module-output" name="SqlUtils.jvmMain" />
+    </root>
+  </artifact>
+</component>

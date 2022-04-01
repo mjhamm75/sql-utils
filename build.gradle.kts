@@ -24,6 +24,8 @@ kotlin {
         val jvmMain by getting {
             dependencies {
                 implementation("org.springframework:spring-jdbc:5.3.18")
+                implementation("com.google.code.gson:gson:2.9.0")
+
             }
         }
         val jvmTest by getting {
